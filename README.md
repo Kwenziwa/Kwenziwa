@@ -5,9 +5,8 @@
 - 🔭 I’m currently working at [Kagiso Interactive](https://kagisointeractive.com)
 - 👨🏾‍💻 I’m currently working on [Laravel](https://laravel.com) and [Android Development](https://developer.android.com/)
 - 🌱  I’m currently learning [Kotlin](https://kotlinlang.org) and [VueJS](https://vuejs.org)
-- 👯 I’m looking to collaborate on [INFLUX IT](https://influxit.co.za)
 - 🤔 I’m looking for help with nothing for now....
-- 💬 Ask me about Coding
+- 💬 Ask me about Coding and Camping 
 - 📫 How to reach me: [Twitter - @kwenziwa](https://twitter.com/kwenziwa)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours to developing to 5 Days of Week.
