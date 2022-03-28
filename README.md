@@ -15,4 +15,3 @@
 [![Twitter: Kwenziwa](https://img.shields.io/twitter/follow/kwenziwa?style=social)](https://twitter.com/kwenziwa)
 [![Linkedin: Kwenziwa Lizwi Khanyile](https://img.shields.io/badge/-Kwenziwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kwenziwa-khanyile/)](https://www.linkedin.com/in/kwenziwa-khanyile/)
 [![GitHub Kwenziwa](https://img.shields.io/github/followers/kwenziwa?label=follow&style=social)](https://github.com/kwenziwa)
-[![website](https://img.shields.io/badge/influxit.co.za-2648ff?style=flat-square&logo=google-chrome)](http://influxit.co.za/)
