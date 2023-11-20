@@ -9,7 +9,7 @@
 - 💬 Ask me about Coding and Camping 
 - 📫 How to reach me: [Twitter - @kwenziwa](https://twitter.com/kwenziwa)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours to developing to 5 Days of Week.
+- ⚡ Fun fact: Always willing to learn.
 
 [![Twitter: Kwenziwa](https://img.shields.io/twitter/follow/kwenziwa?style=social)](https://twitter.com/kwenziwa)
 [![Linkedin: Kwenziwa Lizwi Khanyile](https://img.shields.io/badge/-Kwenziwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kwenziwa-khanyile/)](https://www.linkedin.com/in/kwenziwa-khanyile/)
