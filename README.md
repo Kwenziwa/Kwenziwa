@@ -1,5 +1,9 @@
 ### Hi there 👋
+![Kwenziwa's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kwenziwa&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwenziwa&layout=pie&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwenziwa&theme=github&ring=5595f0&hide_border=true&currStreakNum=5595f0&fire=5595f0&currStreakLabel=5595f0)
 
 
 - 🔭 I’m currently working at [Kagiso Interactive](https://kagisointeractive.com)
