@@ -5,6 +5,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwenziwa&theme=github&ring=5595f0&hide_border=true&currStreakNum=5595f0&fire=5595f0&currStreakLabel=5595f0)
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kwenziwa&theme=flat)
 
 - 🔭 I’m currently working at [Kagiso Interactive](https://kagisointeractive.com)
 - 👨🏾‍💻 I’m currently working on [Laravel](https://laravel.com) and [Android Development](https://developer.android.com/)
