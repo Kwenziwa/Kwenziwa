@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/kwenziwa/kwenziwa/output/metrics.svg" alt="GitHub Metrics" />
 </div>
 ---
 
