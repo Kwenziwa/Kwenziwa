@@ -24,7 +24,6 @@
   <!-- Metrics -->
   <img src="./metrics.svg" alt="GitHub Metrics" />
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
