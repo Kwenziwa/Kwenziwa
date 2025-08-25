@@ -22,8 +22,7 @@
 </div>
 
 <div align="center">
-  <!-- Metrics Card -->
-  <img src="https://metrics.lecoq.io/kwenziwa?template=classic&isocalendar=1&languages=1&stars=1&people=1&config.timezone=Africa%2FJohannesburg" alt="GitHub Metrics" />
+  <img src="./metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ---
