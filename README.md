@@ -18,10 +18,10 @@
 ---
 
 <div align="center">
+  <!-- Snake -->
   <img src="https://raw.githubusercontent.com/kwenziwa/kwenziwa/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
 
-<div align="center">
+  <!-- Metrics -->
   <img src="./metrics.svg" alt="GitHub Metrics" />
 </div>
 
