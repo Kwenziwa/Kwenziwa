@@ -16,3 +16,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Johannesburg
+          output_action: none
+          filename: metrics.svg
+
+      - name: Push Metrics to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
